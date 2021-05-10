@@ -10,7 +10,8 @@
 * [Questions](#questions)
 
 ## Screenshots:
-    
+![screenshot](./assets/screenshots/notetaker1.png)
+![screenshot](./assets/screenshots/notetaker2.png)
 ## Description: 
 using express.js, save and delete notes stored on the local host
 ## Installation: 
