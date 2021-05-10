@@ -8,6 +8,8 @@
 * [Contributors](#contributors)
 * [License](#license)
 * [Questions](#questions)
+
+## Screenshots:
     
 ## Description: 
 using express.js, save and delete notes stored on the local host
@@ -25,3 +27,5 @@ none
 Contact me by the following for any questions:
 * Github:(https://github.com/Nparson88)
 * Email: nparson88@gmail.com 
+* Deployed app : (https://gentle-hamlet-95344.herokuapp.com/)
+                 (https://nparson88.github.io/Note-taker-app/)
